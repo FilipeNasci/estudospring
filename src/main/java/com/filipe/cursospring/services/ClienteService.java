@@ -11,7 +11,6 @@ import org.springframework.data.domain.Sort.Direction;
 import org.springframework.stereotype.Service;
 
 import com.filipe.cursospring.domain.Cliente;
-import com.filipe.cursospring.domain.Cliente;
 import com.filipe.cursospring.dto.ClienteDTO;
 import com.filipe.cursospring.repositories.ClienteRepository;
 import com.filipe.cursospring.services.exceptions.DataIntegrityException;
